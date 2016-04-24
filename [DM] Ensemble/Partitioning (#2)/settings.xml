@@ -8,7 +8,7 @@
 <config key="model">
 <entry key="method" type="xstring" value="Relative"/>
 <entry key="samplingMethod" type="xstring" value="Stratified"/>
-<entry key="fraction" type="xdouble" value="0.8"/>
+<entry key="fraction" type="xdouble" value="0.86"/>
 <entry key="count" type="xint" value="100"/>
 <entry key="random_seed" type="xstring" value="1459971040996"/>
 <entry key="class_column" type="xstring" value="F20"/>
@@ -34,19 +34,19 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 736, Cols: 20"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 791, Cols: 20"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 <config key="port_2">
 <entry key="index" type="xint" value="2"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 184, Cols: 20"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 129, Cols: 20"/>
 <entry key="port_dir_location" type="xstring" value="port_2"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="3e9f53ef-c140-4497-bf77-4ffc0b301eca"/>
+<entry key="file_store_id" type="xstring" value="134ac6d4-958e-45db-b029-55e6e8d2f0f6"/>
 </config>
 </config>
