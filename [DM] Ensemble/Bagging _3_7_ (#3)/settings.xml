@@ -10,13 +10,27 @@
 <config key="weka-optionhandler-settings">
 <entry key="-P_(#0)" type="xstring" value="100"/>
 <entry key="-S_(#1)" type="xstring" value="1"/>
-<entry key="-num-slots_(#2)" type="xstring" value="1"/>
+<entry key="-num-slots_(#2)" type="xstring" value="2"/>
 <entry key="-I_(#3)" type="xstring" value="12"/>
 <entry key="-W_(#4)" type="xstring" value="weka.classifiers.functions.Logistic"/>
 <entry key="-R_(#5)" type="xstring" value="1.0E-8"/>
 <entry key="options_list_with_placeholders" type="xstring" value="-P #0 -S #1 -num-slots #2 -I #3 -W #4 -- -R #5 -M -1"/>
 <entry key="additional_options" type="xstring" value=""/>
 </config>
+</config>
+<config key="nodeAnnotation">
+<entry key="text" type="xstring" value="Train a bagging %%00010ensemble"/>
+<entry key="bgcolor" type="xint" value="16777215"/>
+<entry key="x-coordinate" type="xint" value="310"/>
+<entry key="y-coordinate" type="xint" value="197"/>
+<entry key="width" type="xint" value="115"/>
+<entry key="height" type="xint" value="32"/>
+<entry key="alignment" type="xstring" value="CENTER"/>
+<entry key="borderSize" type="xint" value="0"/>
+<entry key="borderColor" type="xint" value="16777215"/>
+<entry key="defFontSize" type="xint" value="9"/>
+<entry key="annotation-version" type="xint" value="20151123"/>
+<config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
@@ -51,6 +65,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="5f05f245-2962-4489-89e7-94e8b6d59ddf"/>
+<entry key="file_store_id" type="xstring" value="0b96474a-72da-4541-80f1-ba4e0a24716a"/>
 </config>
 </config>
